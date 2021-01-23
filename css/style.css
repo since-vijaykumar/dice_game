@@ -1,0 +1,38 @@
+body {
+  background-color: #393E46;
+  text-align: center;
+}
+
+.titleText {
+  font-family: 'Lobster', cursive;
+  font-weight: bold;
+  font-size: 8rem;
+  color: #16c79a;
+  margin: 2rem auto 4rem auto;
+}
+
+.diceContainer {
+  display: inline-block;
+  font-family: 'Indie Flower', cursive;
+  font-size: 2rem;
+  color: #16c79a;
+  text-align: center;
+}
+
+.player {
+  margin: auto 5rem auto;
+}
+
+.dice {
+  margin: 2rem 2rem auto;
+  height: 14rem;
+  width: 14rem;
+}
+
+.footerContainer {
+  margin: 5rem auto 4rem auto;
+  font-family: 'Indie Flower', cursive;
+  font-weight: 700;
+  /* font-size: 100%; */
+  color: #fff;
+}
